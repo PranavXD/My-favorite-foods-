@@ -1,0 +1,28 @@
+img{
+    height: 300px;
+    width: auto;
+    text-align: center;
+    padding-left: 200px;
+    
+        
+}
+h1{
+    text-align: center;
+    padding-bottom: 90px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+.line{
+    background-color: black;
+        height: 5px;
+    width: 250px;
+    text-align: justify;
+    border-radius: 7px;
+    margin-left: 670px;
+    margin-top: 170px;
+    
+    
+}
+body{
+    background-color: bisque;
+}
